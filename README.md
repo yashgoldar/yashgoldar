@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/56017017/168131862-54213f14-f23d-407d-923a-406909d79451.png)
+
 
 <h1 align="center">Hi 👋, I'm Yash Goldar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
