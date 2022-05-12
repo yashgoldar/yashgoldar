@@ -1,3 +1,4 @@
+<img align="center" src="https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?t=st=1652383316~exp=1652383916~hmac=1173c5987f1b2226151cc641a1506dea9c7d6140b988ef09f0e47cf543577a78&w=996" alt="coding" width="1780" height="440" >
 <h1 align="center">Hi 👋, I'm Yash Goldar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -12,7 +13,8 @@
 
 - 💬 Ask me about **Angular, Firebase, TypeScript, JavaScript, Bootstrap, Html5, CSS3**
 
-- 📫 How to reach me **yashgoldar99@gmail.com**
+<!-- **yashgoldar99@gmail.com** -->
+- 📫 How to reach me <a href="mailto:yashgoldar99@gmail.com"> **Email**</a>
 
 
 
@@ -32,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgoldar&show_icons=true&locale=en&layout=compact" alt="yashgoldar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgoldar&show_icons=true&locale=en" alt="yashgoldar" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashgoldar&show_icons=true&locale=en" alt="yashgoldar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgoldar&" alt="yashgoldar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgoldar&" alt="yashgoldar" /></p>
