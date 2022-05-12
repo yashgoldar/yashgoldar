@@ -1,3 +1,4 @@
+<img src='images/Github_banner.png' alt="banner"></img>
 <h1 align="center">Hi 👋, I'm Yash Goldar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
