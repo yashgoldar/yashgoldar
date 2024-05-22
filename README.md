@@ -1,4 +1,4 @@
-<img align="center" src="https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?t=st=1652383316~exp=1652383916~hmac=1173c5987f1b2226151cc641a1506dea9c7d6140b988ef09f0e47cf543577a78&w=996" alt="coding" width="1780" height="440" >
+<img align="center" src="https://images.unsplash.com/photo-1564865878688-9a244444042a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" width="1780" height="440" >
 <h1 align="center">Hi 👋, I'm Yash Goldar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
