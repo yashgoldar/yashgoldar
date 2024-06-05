@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.yashgoldar.com/](https://www.yashgoldar.com/)
 
-- 💬 Ask me about **Angular, Firebase, TypeScript, JavaScript, Bootstrap, Html5, CSS3**
+- 💬 Ask me about **Angular, ReactJS, Firebase, TypeScript, JavaScript, Bootstrap5, HTML5, CSS3, SCSS, React-Bootstrap, Angular-Material**
 
 <!-- **yashgoldar99@gmail.com** -->
 - 📫 How to reach me <a href="mailto:yashgoldar99@gmail.com"> **Email**</a>
