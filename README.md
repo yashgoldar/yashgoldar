@@ -1,6 +1,6 @@
 <img align="center" src="https://images.unsplash.com/photo-1619410283995-43d9134e7656?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="coding" width="1780" height="440" >
 <h1 align="center">Hi 👋, I'm Yash Goldar</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgoldar&label=Profile%20views&color=0e75b6&style=flat" alt="yashgoldar" /> </p>
