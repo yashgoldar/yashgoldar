@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgoldar&label=Profile%20views&color=0e75b6&style=flat" alt="yashgoldar" /> </p>
-
+x
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgoldar" alt="yashgoldar" /></a> </p> -->
 
 <img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="400">
